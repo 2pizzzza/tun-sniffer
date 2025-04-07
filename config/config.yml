@@ -1,0 +1,4 @@
+tun_name: "tun0"
+tun_ip: "10.0.0.1"
+tun_mask: "24"
+log_path: "tun.log"
